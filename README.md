@@ -4,6 +4,9 @@ This script is too check on ssl vulnerabilities such as
 - SSL weak hashing algorithm
 - CN Name
 
+## Usage
+python ssl-scan.py hosts.txt
+
 ## Features
 
 |No|Features|
