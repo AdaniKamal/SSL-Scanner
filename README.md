@@ -1,4 +1,4 @@
-'`# ssl-scan.py
+# ssl-scan.py
 This script is too check on ssl vulnerabilities such as
 - SSL Expiry
 - SSL weak hashing algorithm
