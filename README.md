@@ -1,4 +1,4 @@
-# ssl-scan.py
+'`# ssl-scan.py
 This script is too check on ssl vulnerabilities such as
 - SSL Expiry
 - SSL weak hashing algorithm
@@ -8,7 +8,7 @@ This script is too check on ssl vulnerabilities such as
 
 |No|Features|
 |--|--------|
-|1|This scanner will do the nmap scan.<br><b>Command:</b> `nmap --script ssl-cert -p <port> <IP>|
+|1|This scanner will do the nmap scan.<br><b>Command:</b> `nmap --script ssl-cert -p <port> <IP>`|
 |2||
 |3||
 
